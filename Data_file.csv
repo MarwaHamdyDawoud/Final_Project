@@ -1,0 +1,284 @@
+﻿PolymerType,PolymerConcentration,Solvent,SAA,SodiumChloride,Ethanol,DistanceFromNeedleToCollector,VoltagePower,FlowRate,Temperature,Hydration,Humidity,Size
+Chitosan,5,15% Acetic acid,None,0,0,15,20,0.4,25,None,30,0
+Chitosan,5,30% Acetic acid,None,0,0,15,20,0.4,25,None,30,0
+Chitosan,5,45% Acetic acid,None,0,0,15,20,0.4,25,None,30,65
+Chitosan,5,60% Acetic acid,None,0,0,15,20,0.4,25,None,30,70
+Chitosan,5,75% Acetic acid,None,0,0,15,20,0.4,25,None,30,125
+Chitosan,5,90% Acetic acid,None,0,0,15,20,0.4,25,None,30,130
+Chitosan,5,90% Acetic acid,None,0,0,15,20,0.4,25,None,30,129
+Chitosan (90) and PEO (10),5,90% Acetic acid,None,0,0,15,20,0.4,25,None,30,130
+Chitosan (80) and PEO (20),5,90% Acetic acid,None,0,0,15,20,0.4,25,None,30,125
+Chitosan (70) and PEO (30),5,90% Acetic acid,None,0,0,15,20,0.4,25,None,30,123
+Chitosan (60) and PEO (40),5,90% Acetic acid,None,0,0,15,20,0.4,25,None,30,119
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0,0,15,20,0.4,25,None,30,114
+Chitosan (40) and PEO (60),5,90% Acetic acid,None,0,0,15,20,0.4,25,None,30,155
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0.1,0,15,20,0.4,25,None,30,116
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0.2,0,15,20,0.4,25,None,30,118
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0.3,0,15,20,0.4,25,None,30,120
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0.4,0,15,20,0.4,25,None,30,0
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0,0,15,17.5,0.4,25,None,30,108
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0,0,15,20,0.4,25,None,30,115
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0,0,15,22.5,0.4,25,None,30,149
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0,0,15,25,0.4,25,None,30,132
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0,0,10,20,0.4,25,None,30,155
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0,0,12.5,20,0.4,25,None,30,138
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0,0,15,20,0.4,25,None,30,110
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0,0,17.5,20,0.4,25,None,30,122
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0,0,15,20,0.4,25,None,30,133
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0,0,15,20,0.6,25,None,30,160
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0,0,15,20,0.8,25,None,30,157
+Chitosan (50) and PEO (50),5,90% Acetic acid,None,0,0,15,20,1,25,None,30,200
+ PVA 99%,8,30% Acetic acid,None,0,0,10,20,4,25,None,30,836
+ PVA 99%,8,30% Acetic acid,None,0,0,15,20,4,25,None,30,814
+ PVA 99%,8,30% Acetic acid,None,0,0,20,20,4,25,None,30,727
+ PVA 99%,8,30% Acetic acid,None,0,0,25,20,4,25,None,30,1045
+ PVA 99%,8,30% Acetic acid,None,0,0,20,20,1,25,None,30,1074
+ PVA 99%,8,30% Acetic acid,None,0,0,20,20,4,25,None,30,1049
+ PVA 99%,8,30% Acetic acid,None,0,0,20,20,7,25,None,30,765
+ PVA 99%,8,30% Acetic acid,None,0,0,20,20,10,25,None,30,416
+ PVA 99%,8,30% Acetic acid,None,0,0,20,10,4,25,None,30,474
+ PVA 99%,8,30% Acetic acid,None,0,0,20,15,4,25,None,30,974
+ PVA 99%,8,30% Acetic acid,None,0,0,20,20,4,25,None,30,900
+ PVA 99%,8,30% Acetic acid,None,0,0,20,25,4,25,None,30,661
+PAN,6,DMF,None,0,0,1.5,21,1.5,25,None,30,208
+PAN,8,DMF,None,0,0,1.5,21,1.5,25,None,30,300
+PAN,10,DMF,None,0,0,1.5,21,1.5,25,None,30,600
+PAN,12,DMF,None,,0,1.5,21,1.5,25,None,30,881
+PAN,10,DMF,None,0,0,1.5,21,0.8,25,None,30,398
+PAN,10,DMF,None,0,0,1.5,21,1,25,None,30,420
+PAN,10,DMF,None,0,0,1.5,21,1.2,25,None,30,510
+PAN,10,DMF,None,0,0,1.5,21,1.4,25,None,30,896
+PAN,10,DMF,None,0,0,1.5,18,1.5,25,None,30,383
+PAN,10,DMF,None,0,0,1.5,19,1.5,25,None,30,344
+PAN,10,DMF,None,0,0,1.5,20,1.5,25,None,30,332
+PAN,10,DMF,None,0,0,1.5,21,1.5,25,None,30,750
+PAN,10,DMF,None,0,0,1.1,21,1.5,25,None,30,200
+PAN,10,DMF,None,0,0,1.3,21,1.5,25,None,30,216
+PAN,10,DMF,None,0,0,1.5,21,1.5,25,None,30,750
+Cellulose acetate,17,Acetone (66.6) + Dimethylacetate (33.3),None,0,0,25,25,1,20,None,50,750
+Na alginate (70)  and PEO (30) ,4,Water,0.5 % Triton,0,0,16,10.5,0.4,25,None,30,124
+PVA88,8,Water,None,0,0,15,10,,80,None,30,190
+PVA92,8,Water,None,0,0,15,10,,80,None,30,200
+PVA96,8,Water,None,0,0,15,10,,80,None,30,220
+PVA99.9,8,Water,None,0,0,15,10,,80,None,30,470
+PVA99.9  (99.5) and  PAA (0.5),8,Water,None,0,0,15,10,,80,None,30,290
+PVA99.9 (99.5)  and  PAA (0.5),8,Water,None,0,0,15,10,,80,Water 1h,30,270
+Collagen (50) and Elastin (50) and PEO (0.5)  ,3,10mM Hydrochloric acid,None,0.005,0,20,22,1.8,25,None,30,250
+Collagen (33.33) and Elastin (66.66) and PEO (0.5),3,10mM Hydrochloric acid,None,0.005,0,20,22,1.8,25,None,30,320
+Collagen(25) and Elastin (75) and PEO (0.5),4,10mM Hydrochloric acid,None,0.005,0,20,22,1.8,25,None,30,600
+Collagen (33.33) and Elastin (66.66) and PEO (0.5),3,10mM Hydrochloric acid,None,0.005,0,20,22,1.8,25,None,30,220
+PEO,0.99,Water,None,0,0,21.5,30,1.6,25,None,30,70
+PEO,1.47,Water,None,0,0,21.5,30,1.6,25,None,30,80
+PEO,1.96,Water,None,0,0,21.5,30,1.6,25,None,30,100
+PEO,2.43,Water,None,0,0,21.5,30,1.6,25,None,30,150
+PEO,2.91,Water,None,0,0,21.5,30,1.6,25,None,30,180
+PEO,3.38,Water,None,0,0,21.5,30,1.6,25,None,30,200
+PEO,3.84,Water,None,0,0,21.5,30,1.6,25,None,30,250
+PEO,4.3,Water,None,0,0,21.5,30,1.6,25,None,30,250
+PEO,3,Water,None,0.0015,0,21.5,30,1.6,25,None,30,200
+PEO,3,Water,None,0.006,0,21.5,30,1.6,25,None,30,200
+PEO,3,Water,None,0.03,0,21.5,30,1.6,25,None,30,150
+PEO,3,Water,None,0.15,0,21.5,30,1.6,25,None,30,180
+PEO,3,Water,None,0.3,0,21.5,30,1.6,25,None,30,180
+PEO,3,Water,None,1.5,0,21.5,30,1.6,25,None,30,70
+PEO,3,Water,None,0,0,21.5,30,1.6,25,None,30,180
+PEO,3.15,Water,None,0,5,21.5,30,1.6,25,None,30,180
+PEO,3.2,Water,None,0,10,21.5,30,1.6,25,None,30,200
+PEO,3.75,Water,None,0,20,21.5,30,1.6,25,None,30,250
+PEO,4.2,Water,None,0,30,21.5,30,1.6,25,None,30,300
+PEO,5,Water,None,0,40,21.5,30,1.6,25,None,30,350
+PVA,8,Water,None,0,0,17,9,0.3,25,None,30,100
+PVA99.9 and GA,8,Water,None,0,0,17,9,0.3,25,None,30,200
+PVA99.9 and GA ,8,Water,None,0,0,17,9,0.3,25,Water 4h,30,200
+PVA99.9 and GA in HCl and Methanol for 9 days,8,Water,None,0,0,17,9,0.3,25,Water 4h,30,200
+PVA99.9 and GA in HCl and Methanol for 15 days,8,Water,None,0,0,17,9,0.3,25,Water 4h,30,200
+PVA99.9 and GA in HCl and Methanol for 9 days,8,Water,None,0,0,17,9,0.3,25,Water 24h,30,200
+PVA99.9 and GA in HCl and Methanol for 15 days,8,Water,None,0,0,17,9,0.3,25,Water 24h,30,200
+PVA88 and PEI and GA,12,Water,None,0,0,25,18.6,0.3,25,None,30,459.7
+PVA88 and PEI and GA,12,Water,None,0,0,25,18.6,0.3,25,Water 1W,30,459.7
+HA and PVA88 and PEI and GA,12,Water,None,0,0,25,18.6,0.3,25,Water 1W,30,520
+Cellulose acetate,15,Acetone (66.6) + Dimethylacetate (33.3),None,0,0,15,15,0.5,25,None,55,380
+10% PVA98 and 10% PVP,10,Water,None,0,0,15,20,0.5,25,None,30,247
+10% PVA98 and 10% PVP and 5% Chitosan,7.5,Water,None,0,0,15,20,0.5,25,None,30,168
+10% PVA98 and 10% PVP-Iodine and 5% Chitosan ,10,Water,None,0,0,15,20,0.5,25,None,30,298
+PVA98,8,Water,None,0,0,35,18,0.1,25,None,30,250
+PVA98,9,Water,None,0,0,35,18,0.1,25,None,30,288
+PVA98,10,Water,None,0,0,35,18,0.1,25,None,30,431
+10% PVA 98 (85) and 1% Chitosan (15),7.53,Water,None,0,0,35,18,0.1,25,None,30,177.3
+10% PVA 98 (80) and 1% Chitosan (20),7.4,Water,None,0,0,35,18,0.1,25,None,30,148.9
+10% PVA 98 (75) and 1% Chitosan (25),7,Water,None,0,0,35,18,0.1,25,None,30,84.22
+10% PVA 98 (70) and 1% Chitosan (35),6.6,Water,None,0,0,35,18,0.1,25,None,30,74.35
+10% PVA 98 (76) and 35% PAA (24),10,Water,None,0,0,15,17.5,0.5,25,None,30,450
+10% PVA 98 (46) and 35% PAA (14) and 10% PVP (40),10,Water,None,0,0,15,17.5,0.5,25,None,30,225
+PVA98 (31) and PAA (9) and PVP (40) and 1% Chitosan (2),10,Water,None,0,0,15,17.5,0.5,25,None,30,130
+PVA98 (46) and PAA (14) and PVP-Iodine (40),10,Water,None,0,0,15,17.5,0.5,25,None,30,250
+PVA98,4,2% Acetic acid,None,0,0,15,22,0.6,25,None,30,80
+PVA98,5,2% Acetic acid,None,0,0,15,22,0.6,25,None,30,100
+PVA98,6,2% Acetic acid,None,0,0,15,22,0.6,25,None,30,110
+PVA98,7,2% Acetic acid,None,0,0,15,22,0.6,25,None,30,170
+PVA98,8,2% Acetic acid,None,0,0,15,22,0.6,25,None,30,200
+4% PVA98 (80) and 1% Chitosan (20),5,2% Acetic acid,None,0,0,15,22,0.6,25,None,30,105
+5% PVA98 (83.33) and 1% Chitosan (16.66),6,2% Acetic acid,None,0,0,15,22,0.6,25,None,30,150
+6% PVA98 (85.7) and 1% Chitosan (14.3),7,2% Acetic acid,None,0,0,15,22,0.6,25,None,30,210
+7% PVA98 (87.5) and 1% Chitosan (12.5),8,2% Acetic acid,None,0,0,15,22,0.6,25,None,30,230
+8% PVA98 (88.88) and 1% Chitosan (11.11),9,2% Acetic acid,None,0,0,15,22,0.6,25,None,30,235
+10% PVA98 (80) and 10% PVP (10) and 2% Chitosan (10),9.2,0.2% Acetic acid,None,0,0,15,13,0.3,25,None,30,221
+10% PVA98 (80) and 10% PVP (10) and 2% Chitosan (10),9.2,0.2% Acetic acid,None,0,0,15,15,0.3,25,None,30,220
+10% PVA98 (70) and 10% PVP (10) and 2% Chitosan (20),8.4,0.4% Acetic acid,None,0,0,15,17,0.3,25,None,30,86
+10% PVA98 (70) and 10% PVP (10) and 2% Chitosan (20),8.4,0.4% Acetic acid,None,0,0,15,20,0.3,25,None,30,85
+10% PVA98 (60) and 10% PVP (10) and 2% Chitosan (30),7.6,0.6% Acetic acid,None,0,0,15,15,0.3,25,None,30,72
+10% PVA98 (60) and 10% PVP (10) and 2% Chitosan (30),7.6,0.6% Acetic acid,None,0,0,15,18,0.3,25,None,30,70
+10% PVA98 (40) and 10% PVP (10) and 2% Chitosan (50),6,1% Acetic acid,None,0,0,15,18,0.3,25,None,30,70
+10% PVA98 (40) and 10% PVP (10) and 2% Chitosan (50),6,1% Acetic acid,None,0,0,15,20,0.3,25,None,30,60
+10% PVA98 (20) and 10% PVP (10) and 2% Chitosan (70),4.4,1.4% Acetic acid,None,0,0,15,23,0.3,25,None,30,0
+PEO (3) and Lignin (97),10,0.5M NaOH,None,0,0,22,20,0.2,32.5,None,35,550
+PEO (4) and Lignin (96),10,0.5M NaOH,None,0,0,22,20,0.2,32.5,None,35,600
+PEO (5) and Lignin (95),10,0.5M NaOH,None,0,0,22,20,0.2,32.5,None,35,580
+PEO (15) and Lignin (85),10,0.5M NaOH,None,0,0,22,20,0.2,32.5,None,35,100
+PEO (97) and Lignin (3),5,0.5M NaOH,None,0,0,22,20,0.2,32.5,None,35,90
+PEO (95) and Lignin (5),5,0.5M NaOH,None,0,0,22,20,0.2,32.5,None,35,100
+PEO (95) and Lignin (5),7,0.5M NaOH,None,0,0,22,20,0.2,32.5,None,35,110
+PEO (97) and Lignin (3),9,0.5M NaOH,None,0,0,22,20,0.2,32.5,None,35,175
+PEO (95) and Lignin (5),9,0.5M NaOH,None,0,0,22,20,0.2,32.5,None,35,200
+PEO (97) and Lignin (3),11,0.5M NaOH,None,0,0,22,20,0.2,32.5,None,35,790
+PEO (95) and Lignin (5),11,0.5M NaOH,None,0,0,22,20,0.2,32.5,None,35,580
+PEO (95) and Lignin (5),11,DMF,None,0,0,22,20,0.2,32.5,None,35,80
+PLLA,10,DCM (30) and DMF (70),None,0,0,,15,1,25,None,30,500
+PDLA,10,DCM (30) and DMF (70),None,0,0,,15,1,25,None,30,500
+PDLLA,10,DCM (30) and DMF (70),None,0,0,,15,1,25,None,30,150
+PLLA,8,DCM (30) and DMF (70),None,0,0,,15,1,25,None,30,450
+PLLA,10,DCM (30) and DMF (70),None,0,0,,15,1,25,None,30,450
+PLLA,12,DCM (30) and DMF (70),None,0,0,,15,1,25,None,30,480
+PVA98 (89) and 1% Chitosan (11),6,1% Acetic acid,None,0,0,25,18,0.6,25,None,30,100
+PVA98 (83) and 1% Chitosan (17),6,1% Acetic acid,None,0,0,25,18,0.6,25,None,30,100
+PVA98 (75) and 1% Chitosan (25),4,1% Acetic acid,None,0,0,25,18,0.6,25,None,30,200
+PVA98 (50) and 2% Chitosan (50),5,0.5% Acetic acid,None,0,0,14,22,0.6,25,None,30,98
+PVA98 (50) and 2% Chitosan (50),6,0.5% Acetic acid,None,0,0,14,22,0.6,25,None,30,112
+PVA98 (50) and 2% Chitosan (50),7,0.5% Acetic acid,None,0,0,14,22,0.6,25,None,30,145
+PVA98 (50) and 2% Chitosan (50),8,0.5% Acetic acid,None,0,0,14,22,0.6,25,None,30,154
+PVA89 ,10,Water (85) and DMF (15),1% Triton,0,0,15,20,0.5,25,None,30,103
+PVA89 and SC1.25,11.25,Water (85) and DMF (15),1% Triton,0,0,15,20,0.5,25,None,30,628
+PVA89 and SC2.5,12.5,Water (85) and DMF (15),1% Triton,0,0,15,20,0.5,25,None,30,481
+PVA89 and SC5,15,Water (80) and DMF (20),1% Triton,0,0,15,20,0.5,25,None,30,423
+PVP,30,Ethanol (85) and DMF (15),None,0,85,15,20,0.5,25,None,30,371
+PVP and SC1.25,31.25,Ethanol (85) and DMF (15),None,0,85,15,20,0.5,25,None,30,452
+PVP and SC2.5,32.5,Ethanol (85) and DMF (15),None,0,85,15,20,0.5,25,None,30,402
+PVP and SC5,35,Ethanol (85) and DMF (15),None,0,85,15,20,0.5,25,None,30,411
+10%PVA 88 (30) and 40% PVP (40) and 8% Chitosan (40),10,1.5% Acetic acid,None,0,0,10,25,,25,None,30,420
+10%PVA 88 (40) and 40% PVP (40) and 8% Chitosan (20),10,1% Acetic acid,None,0,0,10,25,,25,None,30,410
+10%PVA 88 (10) and 40% PVP (50) and 8% Chitosan (10),10,0.5% Acetic acid,None,0,0,10,25,,25,None,30,440
+10%PVA 88 (40) and 40% PVP (40) and 8% Chitosan (20),10,1% Acetic acid,None,0,0,10,20,,25,None,30,301
+10%PVA 88 (40) and 40% PVP (40) and 8% Chitosan (20),10,1% Acetic acid,None,0,0,10,25,,25,None,30,265
+10%PVA 88 (40) and 40% PVP (40) and 8% Chitosan (20),10,1% Acetic acid,None,0,0,10,30,,25,None,30,202
+PVP,8,DMF,None,0,0,10,21,0.26,25,None,30,93
+PVP,8,DMF,None,0,0,20,13,0.26,25,None,30,87
+PVP,8,DMF,None,0,0,15,17,0.26,25,None,30,76
+PVP,8,DMF,None,0,0,20,17,0.26,25,None,30,99
+PVP,10,DMF,None,0,0,10,13,0.26,25,None,30,103
+PVP,10,DMF,None,0,0,20,13,0.26,25,None,30,118
+PVP,10,DMF,None,0,0,15,17,0.26,25,None,30,88
+PVP,10,DMF,None,0,0,10,21,0.26,25,None,30,135
+PVP,10,DMF,None,0,0,20,21,0.26,25,None,30,151
+PVP,10,DMF,None,0,0,15,17,0.26,25,None,30,88
+PVP,12,DMF,None,0,0,15,17,0.26,25,None,30,184
+PVP,12,DMF,None,0,0,10,21,0.26,25,None,30,218
+PVP,12,DMF,None,0,0,20,13,0.26,25,None,30,204
+PVP,14,DMF,None,0,0,10,17,0.26,25,None,30,288
+PVP,14,DMF,None,0,0,15,17,0.26,25,None,30,220
+PVP,14,DMF,None,0,0,15,13,0.26,25,None,30,179
+PVP,14,DMF,None,0,0,20,17,0.26,25,None,30,161
+PVP,14,DMF,None,0,0,15,21,0.26,25,None,30,251
+PVP,16,DMF,None,0,0,15,17,0.26,25,None,30,269
+PVP,16,DMF,None,0,0,10,21,0.26,25,None,30,346
+PVP,16,DMF,None,0,0,20,13,0.26,25,None,30,309
+PVP,18,DMF,None,0,0,10,13,0.26,25,None,30,506
+PVP,18,DMF,None,0,0,20,13,0.26,25,None,30,323
+PVP,18,DMF,None,0,0,15,17,0.26,25,None,30,447
+PVP,18,DMF,None,0,0,10,21,0.26,25,None,30,691
+PVP,18,DMF,None,0,0,20,21,0.26,25,None,30,357
+PVP,20,DMF,None,0,0,15,17,0.26,25,None,30,653
+PVP,20,DMF,None,0,0,10,21,0.26,25,None,30,711
+PVP,20,DMF,None,0,0,20,13,0.26,25,None,30,670
+PVP,20,DMF,None,0,0,20,17,0.26,25,None,30,539
+50% PAN  and 50% PVdF,18,DMF,None,0,0,17,19,0.2,25,None,30,379
+50% PAN  and 50% PVdF,16,DMF,None,0,0,17,21,0.2,25,None,30,176
+50% PAN  and 50% PVdF,16,DMF,None,0,0,17,21,0.2,25,None,30,178
+25% PAN  and 75% PVdF,18,DMF,None,0,0,17,21,0.2,25,None,30,246
+25% PAN  and 75% PVdF,16,DMF,None,0,0,17,23,0.2,25,None,30,174
+50% PAN  and 50% PVdF,16,DMF,None,0,0,17,21,0.2,25,None,30,179
+50% PAN  and 50% PVdF,16,DMF,None,0,0,17,21,0.2,25,None,30,176
+50% PAN  and 50% PVdF,18,DMF,None,0,0,17,23,0.2,25,None,30,290
+75% PAN  and 25% PVdF,16,DMF,None,0,0,17,19,0.2,25,None,30,291
+75% PAN  and 25% PVdF,18,DMF,None,0,0,17,21,0.2,25,None,30,312
+25% PAN  and 75% PVdF,14,DMF,None,0,0,17,21,0.2,25,None,30,116
+75% PAN  and 25% PVdF,14,DMF,None,0,0,17,21,0.2,25,None,30,219
+75% PAN  and 25% PVdF,16,DMF,None,0,0,17,23,0.2,25,None,30,260
+50% PAN  and 50% PVdF,14,DMF,None,0,0,17,19,0.2,25,None,30,135
+50% PAN  and 50% PVdF,16,DMF,None,0,0,17,21,0.2,25,None,30,175
+25% PAN  and 75% PVdF,16,DMF,None,0,0,17,19,0.2,25,None,30,149
+50% PAN  and 50% PVdF,14,DMF,None,0,0,17,23,0.2,25,None,30,132
+PCL,10,chlorofom (90) and DMF (10),None,0,0,10,18,0.5,25,None,30,324
+PCL,12,chlorofom (90) and DMF (10),None,0,0,10,21,0.5,25,None,30,402
+PCL,12,chlorofom (90) and DMF (10),None,0,0,10,15,0.5,25,None,30,485
+PCL,8,chlorofom (90) and DMF (10),None,0,0,8,18,0.5,25,None,30,127
+PCL,12,chlorofom (90) and DMF (10),None,0,0,12,18,0.5,25,None,30,397
+PCL,8,chlorofom (90) and DMF (10),None,0,0,12,18,0.5,25,None,30,197
+PCL,8,chlorofom (90) and DMF (10),None,0,0,10,15,0.5,25,None,30,191
+PCL,10,chlorofom (90) and DMF (10),None,0,0,12,21,0.5,25,None,30,372
+PCL,10,chlorofom (90) and DMF (10),None,0,0,10,18,0.5,25,None,30,314
+PCL,8,chlorofom (90) and DMF (10),None,0,0,10,21,0.5,25,None,30,320
+PCL,10,chlorofom (90) and DMF (10),None,0,0,10,18,0.5,25,None,30,317
+PCL,10,chlorofom (90) and DMF (10),None,0,0,8,15,0.5,25,None,30,287
+PCL,10,chlorofom (90) and DMF (10),None,0,0,10,18,0.5,25,None,30,324
+PCL,10,chlorofom (90) and DMF (10),None,0,0,8,21,0.5,25,None,30,298
+PCL,12,chlorofom (90) and DMF (10),None,0,0,8,18,0.5,25,None,30,359
+PCL,10,chlorofom (90) and DMF (10),None,0,0,10,18,0.5,25,None,30,313
+PCL,10,chlorofom (90) and DMF (10),None,0,0,12,15,0.5,25,None,30,348
+PEO,2,70% Acetic acid,None,0,0,14,15,1,25,None,30,247
+PEO,3.5,50% Acetic acid,None,0,0,14,25,1,26.6,None,30,268
+PEO,5,40% Acetic acid,None,0,0,14,20,1,27.7,None,30,342
+PEO,2.5,60% Acetic acid,None,0,0,14,25,1,28,None,30,238
+PEO,3.5,70% Acetic acid,None,0,0,14,25,1,27.5,None,30,302
+PEO,2,30% Acetic acid,None,0,0,14,25,1,28,None,30,126
+PEO,2,Water,None,0,0,14,15,1,28.5,None,30,97
+PEO,4.5,90% Acetic acid,None,0,0,14,15,1,28.5,None,30,2900
+PEO,4,30% Acetic acid,None,0,0,14,15,1,28.6,None,30,229
+PEO,4,30% Acetic acid,None,0,0,14,10,1,35,None,30,390
+PEO,3.5,20% Acetic acid,None,0,0,14,24.5,1,30.2,None,30,310
+PEO,2.5,100% Acetic acid,None,0,0,14,25,1,30,None,30,579
+PEO,4,80% Acetic acid,None,0,0,14,15,1,30,None,30,315
+PEO,4,80% Acetic acid,None,0,0,14,25,1,45,None,30,695
+PEO,3,30% Acetic acid,None,0,0,14,10,1,33,None,30,330
+PEO,2,90% Acetic acid,None,0,0,14,10,1,40,None,30,509
+PEO,3,Water,None,0,0,14,15.8,1,42,None,30,289
+PEO,2.5,50% Acetic acid,None,0,0,14,25,1,35,None,30,280
+PEO,2,40% Acetic acid,None,0,0,14,25,1,36,None,30,195
+PEO,2.5,40% Acetic acid,None,0,0,14,20,1,38,None,30,261
+PEO,5,10% Acetic acid,None,0,0,14,10,1,40,None,30,361
+PEO,4.5,10% Acetic acid,None,0,0,14,24,1,30,None,30,239
+PEO,3,10% Acetic acid,None,0,0,14,20.5,1,40,None,30,232
+PEO,3,10% Acetic acid,None,0,0,14,24,1,42,None,30,216
+PEO,5,30% Acetic acid,None,0,0,14,12,1,40,None,30,945
+PEO,3.5,50% Acetic acid,None,0,0,14,10,1,43,None,30,405
+PEO,2,10% Acetic acid,None,0,0,14,15,1,42,None,30,193
+PEO,2,60% Acetic acid,None,0,0,14,25,1,45,None,30,268
+PEO,2.2,85% Acetic acid,None,0,0,14,10,1,28.5,None,30,428
+PEO,2.8,75% Acetic acid,None,0,0,14,15.5,1,28,None,30,490
+PEO,4.8,5% Acetic acid,None,0,0,14,11.9,1,36.5,None,30,450
+PEO,3.3,35% Acetic acid,None,0,0,14,17.9,1,37.5,None,30,493
+PEO,4.1,25% Acetic acid,None,0,0,14,22,1,43,None,30,497
+PEO,2.3,95% Acetic acid,None,0,0,14,23.3,1,26.5,None,30,347
+PEO,3.1,45% Acetic acid,None,0,0,14,18.8,1,39.3,None,30,604
+PEO,4.1,25% Acetic acid,None,0,0,14,17,1,25,None,30,361
+PEO,3,Water,None,0,0,14,20,1,32,None,30,161
+PEO,3.7,55% Acetic acid,None,0,0,14,20.8,1,33.7,None,30,459
+PEO,4.3,15% Acetic acid,None,0,0,14,16,1,35.5,None,30,438
+PEO,4,20% Acetic acid,None,0,0,14,25,1,28,None,30,213
+PEO,3.5,10% Acetic acid,None,0,0,14,10,1,26,None,30,269
+PEO,2.5,Water,None,0,0,14,10,1,30.9,None,30,198
+PEO,3,20% Acetic acid,None,0,0,14,15.7,1,35,None,30,361
+PEO,3,70% Acetic acid,None,0,0,14,10,1,25,None,30,786
+PEO,4.5,80% Acetic acid,None,0,0,14,20.5,1,30,None,30,1638
+PEO,3,10% Acetic acid,None,0,0,14,15,1,35,None,30,285
+PEO,5,90% Acetic acid,None,0,0,14,20,1,45,None,30,2472
+PEO,3.2,65% Acetic acid,None,0,0,14,12.6,1,30,None,30,436
